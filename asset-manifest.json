@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Camilo95VP/imc_comfenalco/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Camilo95VP/imc_comfenalco/static/js/main.d0503d20.chunk.js",
+    "main.js.map": "/Camilo95VP/imc_comfenalco/static/js/main.d0503d20.chunk.js.map",
+    "runtime-main.js": "/Camilo95VP/imc_comfenalco/static/js/runtime-main.ba4d83f9.js",
+    "runtime-main.js.map": "/Camilo95VP/imc_comfenalco/static/js/runtime-main.ba4d83f9.js.map",
+    "static/js/2.1a295d35.chunk.js": "/Camilo95VP/imc_comfenalco/static/js/2.1a295d35.chunk.js",
+    "static/js/2.1a295d35.chunk.js.map": "/Camilo95VP/imc_comfenalco/static/js/2.1a295d35.chunk.js.map",
+    "index.html": "/Camilo95VP/imc_comfenalco/index.html",
+    "precache-manifest.2381f01f6e871c5a11516813bed7e55f.js": "/Camilo95VP/imc_comfenalco/precache-manifest.2381f01f6e871c5a11516813bed7e55f.js",
+    "service-worker.js": "/Camilo95VP/imc_comfenalco/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Camilo95VP/imc_comfenalco/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1a295d35.chunk.js.LICENSE.txt": "/Camilo95VP/imc_comfenalco/static/js/2.1a295d35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba4d83f9.js",
+    "static/js/2.1a295d35.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d0503d20.chunk.js"
+  ]
+}
